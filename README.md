@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Linker44
-- 🌱 I’m currently learning vue js
+- 🌱 I’m currently at Humming Homes
 - 📫 How to reach me flopezjanza@gmail.com
 
 <!---
