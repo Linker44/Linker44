@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Linker44
-- 🌱 I’m currently at Humming Homes
+- currently learning React!
 - 📫 How to reach me flopezjanza@gmail.com
 
 <!---
